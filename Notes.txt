@@ -1,0 +1,2 @@
+Converting BGR to RGB in OpenCV:
+rgb_image = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
